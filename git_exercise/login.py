@@ -7,4 +7,4 @@ E-mail:qideping@makenv.com
 """
 from selenium import webdriver
 
-driver = webdriver.Chromegit 
+driver = webdriver.Chromegit
